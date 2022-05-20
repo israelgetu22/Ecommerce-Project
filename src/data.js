@@ -50,7 +50,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e91b7fb-3b56-4764-a47b-0ac5ddcb6529/custom-nike-air-force-1-mid-by-you-shoe.png",
   },
   {
     id: 3,
